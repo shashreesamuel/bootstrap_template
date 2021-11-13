@@ -10398,4 +10398,20 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.form-control {
+  border: 1px solid black;
+}
+input:focus {
+  border: 2px solid black;
+}
+label {
+  margin: 1em;
+}
+.btn-center {
+  justify-content: center;
+}
+.container {
+  justify-content: center;
+  width: 12px;
+}
 /*# sourceMappingURL=index.f9227b91.css.map */
